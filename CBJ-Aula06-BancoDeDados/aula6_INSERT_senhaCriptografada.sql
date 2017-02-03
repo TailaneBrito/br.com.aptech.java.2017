@@ -1,0 +1,1 @@
+INSERT INTO aula6_autenticacao.dados (usuario, senha) VALUES('Maria',MD5('rim*01*do01!'));

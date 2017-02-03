@@ -1,0 +1,1 @@
+SELECT * FROM aula6_autenticacao.dados WHERE usuario = 'Maria' AND senha = MD5('12356');
