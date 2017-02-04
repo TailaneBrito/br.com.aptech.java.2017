@@ -1,0 +1,23 @@
+O cometa Halley é um dos cometas de menor período do Sistema Solar, completando uma volta em torno do Sol a cada 76 anos; na ultima ocasião em que ele tornou-se visível do planeta Terra, em 1986, varias agencias espaciais enviaram sondas para coletar amostras de sua cauda e assim confirmar teorias sobre suas composições químicas.
+
+ 
+
+Desafio:
+
+Dado um ano qualquer, mostrar o ano que passará o próximo cometa.
+
+ 
+
+Ex:
+
+Entrada: 1970 -> Saída: 1986
+
+Entrada: 1979 -> Saída: 1986
+
+Entrada: 1930 -> Saída: 1986
+
+Entrada: 1905 -> Saída: 1910
+
+Entrada: 2000 -> Saída: 2062
+
+Entrada: 2030 -> Saída: 2062

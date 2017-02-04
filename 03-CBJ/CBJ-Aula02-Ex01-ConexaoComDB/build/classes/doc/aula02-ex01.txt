@@ -1,0 +1,22 @@
+JDBC - jada data base conection
+
+1) Registrar JDBC				
+2) Estabelecer a conexao com o banco de dados	- conexao com o DB	
+3) Criar e executar uma declaracao SQL 		- criar a query
+4) Processar os resultados 			- Configurar a query
+5) Fechar a conexao com o banco de dados 	- rodar a query
+6) 						- Processar Resultados
+7)						- Fechar a conexao
+
+
+
+
+Criar projeto e
+
+na pasta Biblioteca - botao direito - adicionar biblioteca - Driver JDBC do MySQL
+
+
+
+criar no mysql workbench
+- aula2_escola
+

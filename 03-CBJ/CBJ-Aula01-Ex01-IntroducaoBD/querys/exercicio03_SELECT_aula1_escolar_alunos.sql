@@ -1,0 +1,4 @@
+/* 1. RETORNAR DA TB ALUNOS TODOS OS ALUNOS QUE FAZEM CURSO DE BD */
+
+SELECT * FROM aula1_escolar.alunos
+WHERE curso = "BD";

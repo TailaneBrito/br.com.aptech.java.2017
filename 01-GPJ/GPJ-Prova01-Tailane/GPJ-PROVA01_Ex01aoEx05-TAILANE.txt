@@ -1,0 +1,74 @@
+*************************************************************************
+*		Disciplina: Guia de Programação em Java			*
+*									*
+*	          Instrutor: Marcelo Tetsuhiro Sadaike			*
+*									*
+*		   Aluno: TAILANE NASCIMENTO DE BRITO			*
+*************************************************************************
+
+1.) Quais das declarações do método “main” abaixo permitem que uma classe 
+seja iniciada como um programa executável? (0.6)
+
+a) public static int main(char[] args)
+b) public static void main(String[] args)
+c) public static void MAIN(String[] args)
+d) public static void main(String[] args)
+e) public static void main(char[] args)
+
+RESPOSTA: B e D
+__________________________________________________________________________
+
+2. Qual é o tipo de retorno do método declarado abaixo? (0.6)
+public void imprimir()
+a) O método não tem retorno
+b) O método retorna “int”
+c) O método retorna “String”
+d) O método retorna “char”
+e) O método retorna um “double”
+
+RESPOSTA: A
+__________________________________________________________________________
+
+3. Qual método é usado em todo programa em Java? (0.6)
+a) type()
+b) System.out.println()
+c) System.out.print()
+d) main()
+e) exit()
+
+RESPOSTA: D
+__________________________________________________________________________
+
+4. Qual pacote pertence a Classe Scanner? (0.6)
+a) javax.mail
+b) java.util
+c) java.io
+d) java.swing
+e) java.lang
+
+RESPOSTA: B
+__________________________________________________________________________
+
+5. Quais das seguintes afirmativas são verdadeiras: (0.6) 
+
+I. Um classe abstrata não pode ser instanciada. 
+
+II. A palavra-chave “final” indica que o 
+corpo do método é encontrado em outro arquivo, escrito em outra linguagem, 
+como C/C++. 
+
+III. Um atributo estático (static) indica que o atributo é compartilhado em 
+todos os objetos da classe, ou seja, que o atributo pertença à classe ao 
+invés dos objetos. 
+
+IV. Um método definido como privado está acessível para todas as outras classes 
+no mesmo pacote.
+
+a) Afirmativas I e III
+b) Afirmativas I, II e III
+c) Afirmativas III e IV
+d) Apenas a afirmativa I
+e) Todas as afirmativas estão corretas
+
+RESPOSTA: A
+__________________________________________________________________________ 

@@ -1,0 +1,3 @@
+ideia para tcc
+
+criar um servidor de conexoes para troca de mensagens internas....

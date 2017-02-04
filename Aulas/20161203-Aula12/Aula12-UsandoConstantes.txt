@@ -1,0 +1,8 @@
+Pq criar uma constante dentro de um método?
+para que nenhuma outra classe modifique o seu valor.
+
+
+Pq nao abrir o banco dentro do construtor?
+	para nao deixa-lo aberto sem necessidade, pois nem todo objeto instanciado fará uso de algum método.
+
+lembrar que quando o método retorna um objeto, é necessário que um objeto receba a acao do método que quer efetuar
